@@ -104,6 +104,10 @@ p, li, table, tbody, tr, td {
   word-wrap: break-word;
 }
 
+body {
+  background-color: white;
+}
+
 /* table styling */
 
 thead {
